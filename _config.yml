@@ -67,7 +67,7 @@ gitalk:
   repo: zivyang688.github.io    #仓库名称
   owner: zivyang688    #github用户名
   admin: zivyang688
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
