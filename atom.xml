@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zivyang688.github.io</id>
+    <title>Gridea</title>
+    <updated>2026-04-06T08:08:37.916Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zivyang688.github.io"/>
+    <link rel="self" href="https://zivyang688.github.io/atom.xml"/>
+    <subtitle>悟以往之不谏，知来者之可追
+识迷途其未远，觉今是而昨非</subtitle>
+    <logo>https://zivyang688.github.io/images/avatar.png</logo>
+    <icon>https://zivyang688.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, Gridea</rights>
+</feed>
